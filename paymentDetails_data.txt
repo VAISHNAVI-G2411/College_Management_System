@@ -1,0 +1,49 @@
+studentId: 1235
+tuitionFee: 200000.0
+trainingFee: 2500.0
+stayType: dayscholar
+hostelFee: 0.0
+busFee: 7800.0
+.................................................
+studentId: 123
+tuitionFee: 2000.0
+trainingFee: 1000.0
+stayType: dayscholar
+hostelFee: 0.0
+busFee: 250.0
+.................................................
+studentId: 1234
+tuitionFee: -78000.0
+trainingFee: -100000.0
+stayType: hostel
+hostelFee: -9.87654321E8
+busFee: 0.0
+.................................................
+studentId: 234
+tuitionFee: 2435.0
+trainingFee: 342.0
+stayType: hostel
+hostelFee: 45.0
+busFee: 0.0
+.................................................
+studentId: 678
+tuitionFee: 234.0
+trainingFee: 2.0
+stayType: dayscholar
+hostelFee: 0.0
+busFee: 3.0
+.................................................
+studentId: 123
+tuitionFee: 32435.0
+trainingFee: 43546.0
+stayType: hostel
+hostelFee: 43564.0
+busFee: 0.0
+.................................................
+studentId: 123
+tuitionFee: 231453.0
+trainingFee: 45555.0
+stayType: hostel
+hostelFee: 435.0
+busFee: 0.0
+.................................................

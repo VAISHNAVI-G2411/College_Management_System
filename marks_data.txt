@@ -1,0 +1,11 @@
+
+ID: 123
+Semester: 1
+Department: ECE
+subjectMark: {DSP=98, VLSI=99}
+.................................................
+ID: 234
+Semester: 1
+Department: ece
+subjectMark: {ee=77, vlsi=88, ed=88}
+.................................................

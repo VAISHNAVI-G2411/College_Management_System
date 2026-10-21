@@ -1,0 +1,19 @@
+Name: ragavi
+ID: 123
+Department: ECE
+Subjects: [VLSI, DSP]
+Address: salem
+Phone No: 6543893932
+EmailId: ragavi123@gmail.com
+Experience: 5
+Salary: 35000
+Name: raji
+ID: 456
+Department: ece
+Subjects: [vlsi, ee]
+Address: salem
+Phone No: 987654321
+EmailId: raji@gmail.com
+Experience: 3
+Salary: 340000
+.................................................

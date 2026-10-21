@@ -1,0 +1,329 @@
+
+Name: Anu
+ID: 111
+Address: chennai
+Phone No: 6577889933
+Batch: 2026
+Cut Off: 166.0
+Department: IT
+.................................................
+Name: brindha
+ID: 112
+Address: salem
+Phone No: 6369806006
+Batch: 2026
+Cut Off: 177.0
+Department: CSE
+.................................................
+Name: vaishnavi
+ID: 125
+Address: salem
+Phone No: 6381183433
+Batch: 2026
+Cut Off: 155.0
+Department: ECE
+.................................................
+Name: Raji
+ID: 117
+Address: karur
+Phone No: 6788234987
+Batch: 2026
+Cut Off: 166.0
+Department: IT
+.................................................
+Name: Madhan
+ID: 123
+Address: Estancia
+Phone No: 9876543210
+Batch: 2026
+Cut Off: 3000.0
+Department: AERONAUTICAL
+.................................................
+Name: Madhan
+ID: 1234
+Address: $%^&*()
+Phone No: 9876543210
+Batch: 0
+Cut Off: 0.0
+Department: +_)(*&^%$#
+.................................................
+Name: dsf
+ID: 324
+Address: dsfd
+Phone No: 1111111111
+Batch: 2022
+Cut Off: 2222.0
+Department: 12wqe
+.................................................
+Name: sdfg
+ID: 213
+Address: wdsa
+Phone No: 1234567890
+Batch: 2022
+Cut Off: 4000.0
+Department: asdf
+.................................................
+Name: sdf
+ID: 3232
+Address: ds
+Phone No: 2022222222
+Batch: 2022
+Cut Off: 177.0
+Department: aero
+.................................................
+Name: raji
+ID: 234
+Address: salem
+Phone No: 3446789234
+Batch: 2022
+Cut Off: 144.0
+Department: EEE
+.................................................
+Name: 234567890-#$%^&*()
+ID: 0
+Address: 1234567890-=sdfghjkl;@#$%^&*()
+Phone No: 0000000000
+Batch: 0
+Cut Off: 177.56
+Department: others
+.................................................
+Name: sfd
+ID: 234
+Address: wfd324
+Phone No: 1232222222
+Batch: 2027
+Cut Off: 200.0
+Department: ece
+.................................................
+Name: dsf
+ID: 213
+Address: qwer
+Phone No: 1341232222
+Batch: 2045
+Cut Off: 144.0
+Department: wedz
+.................................................
+Name: dfss
+ID: 23
+Address: fc
+Phone No: 3434343434
+Batch: 1988
+Cut Off: 144.0
+Department: ece
+.................................................
+Name: sfg
+ID: 43
+Address: rtsgdz
+Phone No: 2453424343
+Batch: 2044
+Cut Off: 133.0
+Department: ece
+.................................................
+Name: asDFXGC
+ID: 123
+Address: 321WE
+Phone No: 2222222222
+Batch: 2066
+Cut Off: 155.0
+Department: ECE
+.................................................
+Name: efxvb
+ID: 67
+Address: dfs
+Phone No: 3333333333
+Batch: 2055
+Cut Off: 166.0
+Department: ece
+.................................................
+Name: vaishu
+ID: 0
+Address: asdfg
+Phone No: 0987654321
+Batch: 2027
+Cut Off: 199.99
+Department: ece
+.................................................
+Name: vsdf
+ID: 0
+Address: hjv
+Phone No: 0000000007
+Batch: 1988
+Cut Off: 188.0
+Department: efv
+.................................................
+Name: ram
+ID: 3453
+Address: regfdtr
+Phone No: 0645454444
+Batch: 2026
+Cut Off: 177.0
+Department: ece
+.................................................
+Name: adfd
+ID: 43
+Address: dfsg
+Phone No: 3333333333
+Batch: 1988
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: drtfygui
+ID: 6
+Address: 65\
+Phone No: 9999999999
+Batch: 2026
+Cut Off: 166.0
+Department: htgd
+.................................................
+Name: jj
+ID: 4
+Address: klk
+Phone No: 8888888888
+Batch: 1988
+Cut Off: 166.0
+Department: eee
+.................................................
+Name:  
+ID: 1
+Address: 
+Phone No: 2252525555
+Batch: 2000
+Cut Off: 152.0
+Department: eee
+.................................................
+Name: hjgffh
+ID: 76
+Address: hgfhg
+Phone No: 7777777777
+Batch: 1999
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: jhgdg
+ID: 564
+Address: 
+Phone No: 6666666666
+Batch: 1999
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: ghhjv
+ID: 67
+Address: 
+Phone No: 6666666666
+Batch: 2000
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: hg
+ID: 968
+Address: 
+Phone No: 3333333333
+Batch: 2000
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: sfs dgs
+ID: 67
+Address: 
+Phone No: 7777777777
+Batch: 2025
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: jbh
+ID: 34
+Address: 
+Phone No: 2433424322
+Batch: 2100
+Cut Off: 133.0
+Department: mech
+.................................................
+Name: vaish sjhbd jbdak
+ID: 1234
+Address: 
+Phone No: 0987654321
+Batch: 2028
+Cut Off: 199.0
+Department: mech
+.................................................
+Name: ramu
+ID: 477
+Address: 
+Phone No: 9999999999
+Batch: 2026
+Cut Off: 177.0
+Department: eee
+.................................................
+Name: edward
+ID: 12345
+Address: 
+Phone No: 9999999999
+Batch: 2026
+Cut Off: 188.0
+Department: it
+.................................................
+Name:  gfhg
+ID: 45
+Address: 
+Phone No: 9999999999
+Batch: 2027
+Cut Off: 177.0
+Department: eee
+.................................................
+Name: gopal
+ID: 333
+Address: 
+Phone No: 9999999999
+Batch: 2026
+Cut Off: 188.0
+Department: eee
+.................................................
+Name: gopal
+ID: 47698
+Address: 
+Phone No: 5555555555
+Batch: 2099
+Cut Off: 177.0
+Department: it
+.................................................
+Name: gdxb ghf gfhd
+ID: 4556
+Address: 
+Phone No: 3546345678
+Batch: 2099
+Cut Off: 144.0
+Department: eee
+.................................................
+Name: vsa
+ID: 12343
+Address: 
+Phone No: 3333333333
+Batch: 2000
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: strhhd
+ID: 2435
+Address: 
+Phone No: 5544332222
+Batch: 2000
+Cut Off: 188.0
+Department: eee
+.................................................
+Name: vvvvv
+ID: 243
+Address: 
+Phone No: 4444444444
+Batch: 2000
+Cut Off: 155.0
+Department: eee
+.................................................
+Name: mjsjdj
+ID: 54
+Address: 
+Phone No: 7777777777
+Batch: 2000
+Cut Off: 188.0
+Department: eee
+.................................................
